@@ -1,3 +1,9 @@
+# Tema curs 2
+
+Pornind de la sedinta 2 de curs, creati un CRUD(CREATE, READ, UPDATE, DELETE) pentru Employee si un CRUD pentru Companies
+Modul in care se implementeaza atat partea de server cat si partea vizuala sunt la libera alegere.
+Puteti folosi si Bootstrap pentru partea de FRONTEND.
+
 # Tema curs 1
 
 ## 1. MVC model
